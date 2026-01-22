@@ -1,6 +1,6 @@
-DOCKER_IMAGE_NAME = firmware-builder
+DOCKER_IMAGE_NAME = openmv-builder
 DOCKER_TAG = latest
-CONTAINER_NAME = firmware-container
+CONTAINER_NAME = openmv-container
 DOCKERFILE_PATH = Dockerfile
 
 # Build the Docker image
